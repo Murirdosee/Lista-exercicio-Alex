@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class exer9 {
+    public static void main(String[] args) {
+        try (Scanner input = new Scanner(System.in)){
+            // Atributos
+            int idade;
+            
+            // Input
+            System.out.println("Informe sua idade: ");
+            idade = input.nextInt();
+
+            // Condições
+
+        }
+    }   
+}
